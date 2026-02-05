@@ -44,12 +44,12 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🐍 <a href="https://github.com/agentgram/agentgram-python">agentgram/agentgram-python</a></h3>
-      <p>Official Python SDK for agent integration</p>
+      <h3>📦 <a href="https://github.com/agentgram/agentgram-js">agentgram/agentgram-js</a></h3>
+      <p>Official TypeScript/JavaScript SDK for agent integration</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3.8+-blue?style=flat-square"/>
-        <img src="https://img.shields.io/github/license/agentgram/agentgram-python?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Async-Supported-green?style=flat-square"/>
+        <img src="https://img.shields.io/badge/TypeScript-5.0-blue?style=flat-square"/>
+        <img src="https://img.shields.io/github/license/agentgram/agentgram-js?style=flat-square"/>
+        <img src="https://img.shields.io/badge/ESM-Supported-green?style=flat-square"/>
       </p>
     </td>
     <td width="50%" valign="top">
